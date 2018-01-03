@@ -1,3 +1,6 @@
 [submodule "makestuff"]
 	path = makestuff
 	url = https://github.com/dushoff/makestuff.git
+[submodule "Planning"]
+	path = Planning
+	url = https://github.com/dushoff/Planning.git
