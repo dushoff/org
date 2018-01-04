@@ -12,9 +12,9 @@ Sources = Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
 # include $(ms)/perl.def
 
-Sources += localrepos.def
 -include $(ms)/repos.def
--include localrepos.def
+Sources += localrepos.def
+include localrepos.def
 
 ##################################################################
 
@@ -26,6 +26,8 @@ dirs += $(mdirs)
 dfiles: $(dirs) $(dirs:%=%/Makefile)
 
 Sources += $(dirs)
+
+######################################################################
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
