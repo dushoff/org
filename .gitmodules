@@ -1,9 +1,10 @@
-[submodule "makestuff"]
-	path = makestuff
-	url = https://github.com/dushoff/makestuff.git
 [submodule "Planning"]
 	path = Planning
 	url = https://github.com/dushoff/Planning.git
 [submodule "Correspondence"]
 	path = Correspondence
 	url = https://bitbucket.org/dushoff/Correspondence.git
+[submodule "makestuff"]
+	path = makestuff
+	url = https://github.com/dushoff/makestuff.git
+	branch = master
