@@ -14,7 +14,13 @@ Sources = Makefile .ignore README.md makestuff.mk LICENSE.md
 
 ##################################################################
 
-clonedirs += Planning Correspondence
+clonedirs += Planning
+Planning:
+	git clone https://github.com/dushoff/Planning.git $@
+
+clonedirs += Correspondence
+Correspondence:
+	git clone https://dushoff@bitbucket.org/dushoff/correspondence.git $@
 
 ##################################################################
 
