@@ -7,14 +7,10 @@ target: $(target)
 
 ##################################################################
 
-
-Sources = Makefile .ignore README.md sub.mk LICENSE.md
-include sub.mk
+Sources = Makefile .ignore README.md makestuff.mk LICENSE.md
 # include $(ms)/perl.def
 
--include $(ms)/repos.def
-Sources += localrepos.def
-include localrepos.def
+-include makestuff.mk
 
 ##################################################################
 
