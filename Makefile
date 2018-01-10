@@ -14,7 +14,7 @@ Sources = Makefile .ignore README.md makestuff.mk LICENSE.md
 
 ##################################################################
 
-mdirs += Planning Correspondence
+clonedirs += Planning Correspondence
 
 ##################################################################
 
