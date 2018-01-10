@@ -1,5 +1,7 @@
 # org
 ### Hooks for the editor to set the default target
+### This is a repo of clones; doesn't make hard products, doesn't need sub.mk
+
 current: target
 target = Makefile
 -include target.mk
@@ -21,6 +23,10 @@ Planning:
 clonedirs += Correspondence
 Correspondence:
 	git clone https://dushoff@bitbucket.org/dushoff/correspondence.git $@
+
+clonedirs += Lab_meeting
+Lab_meeting:
+	git clone https://github.com/mac-theobio/Lab_meeting.git $@
 
 ##################################################################
 
