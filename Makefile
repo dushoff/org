@@ -16,6 +16,8 @@ Sources = Makefile .ignore README.md makestuff.mk LICENSE.md
 
 ##################################################################
 
+bbwrap = git clone https://dushoff@bitbucket.org/dushoff/$@.git $@
+
 clonedirs += Planning
 Planning:
 	git clone https://github.com/dushoff/Planning.git $@
@@ -27,6 +29,10 @@ Correspondence:
 clonedirs += Lab_meeting
 Lab_meeting:
 	git clone https://github.com/mac-theobio/Lab_meeting.git $@
+
+clonedirs += New_CV
+New_CV:
+	$(bbwrap)
 
 ##################################################################
 
