@@ -16,23 +16,29 @@ Sources = Makefile .ignore README.md makestuff.mk LICENSE.md
 
 ##################################################################
 
-bbwrap = git clone https://dushoff@bitbucket.org/dushoff/$@.git $@
+bitbucket = git clone https://dushoff@bitbucket.org/dushoff/$@.git
+dushoff = git clone https://github.com/dushoff/$@.git
+theobio = git clone https://github.com/mac-theobio/$@.git
 
 clonedirs += Planning
 Planning:
-	git clone https://github.com/dushoff/Planning.git $@
+	$(dushoff)
 
 clonedirs += Correspondence
 Correspondence:
-	git clone https://dushoff@bitbucket.org/dushoff/correspondence.git $@
+	$(dushoff)
 
 clonedirs += Lab_meeting
 Lab_meeting:
-	git clone https://github.com/mac-theobio/Lab_meeting.git $@
+	$(theobio)
 
 clonedirs += New_CV
 New_CV:
-	$(bbwrap)
+	$(bitbucket)
+
+clonedirs += notebook
+notebook:
+	git clone -b gh-pages https://github.com/dushoff/$@.git
 
 ##################################################################
 
