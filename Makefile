@@ -1,4 +1,4 @@
-## This is the screendir …
+## This is the screendir org
 
 current: target
 -include target.mk
@@ -7,13 +7,11 @@ current: target
 
 ######################################################################
 
-Sources += $(wildcard *.pl)
-
-## Guide file
-
-######################################################################
-
-### listdir stuff (listdir.mk)
+vim_session: 
+	bash -cl "vmt screens.list"
+	
+screen_session:
+	$(MAKE) $(vscreens)
 
 ######################################################################
 
@@ -24,7 +22,6 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 Makefile: makestuff/Makefile
-## makestuff: makestuff/Makefile
 makestuff/Makefile:
 	git clone $(msrepo)/makestuff
 	ls $@
