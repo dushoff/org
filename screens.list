@@ -1,14 +1,12 @@
 
 1. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 
+1. Planning: ../planning/Planning
+106.	tp ../admin/tp/
 
 ----------------------------------------------------------------------
 
-102.	tp
-
-Imported
-
-103.	CV
-104.	Correspondence
-105.	coreFaculty
-106.	cron
+102.	CV
+103.	Correspondence
+104.	coreFaculty
+105.	cron
