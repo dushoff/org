@@ -1,23 +1,12 @@
 
 1. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
-<<<<<<< HEAD
 
 2. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 3.	tp ../admin/tp/
 
 ----------------------------------------------------------------------
 
-104.	CV
-105.	Correspondence
-106.	coreFaculty
-107.	cron
-=======
-108.	tp:  https://github.com/dushoff/tp.git ../admin/tp/
-
-----------------------------------------------------------------------
-
-209.	CV:  https://bitbucket.org/dushoff/New_CV.git
-210.	Correspondence:  https://bitbucket.org/dushoff/Correspondence.git
-211.	coreFaculty:  https://github.com/ICI3D/coreFaculty.git
-212.	cron:  https://github.com/dushoff/cron.git
->>>>>>> 07521657db5f8d42d5c7fa2e19048ac19871b669
+104.	CV:  https://bitbucket.org/dushoff/New_CV.git
+105.	Correspondence:  https://bitbucket.org/dushoff/Correspondence.git
+106.	coreFaculty:  https://github.com/ICI3D/coreFaculty.git
+107.	cron:  https://github.com/dushoff/cron.git
