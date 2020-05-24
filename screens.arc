@@ -1,10 +1,15 @@
 
 1. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
-2.	tp:  https://github.com/dushoff/tp.git ../admin/tp/
+
+## Tenure and promotion
+2.	tp ../admin/tp/
+
+## mathbio boys organizational thing, #DJDE #Bolker
+3. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../coronavirus/MacPrivate/
 
 ----------------------------------------------------------------------
 
-103.	CV:  https://bitbucket.org/dushoff/New_CV.git
-104.	Correspondence:  https://bitbucket.org/dushoff/Correspondence.git
-105.	coreFaculty:  https://github.com/ICI3D/coreFaculty.git
-106.	cron:  https://github.com/dushoff/cron.git
+104.	CV:  https://bitbucket.org/dushoff/New_CV.git
+105.	Correspondence:  https://bitbucket.org/dushoff/Correspondence.git
+106.	coreFaculty:  https://github.com/ICI3D/coreFaculty.git
+107.	cron:  https://github.com/dushoff/cron.git
