@@ -4,6 +4,8 @@ XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 ## Tenure and promotion
 XX.	tp ../admin/tp/
 
+XX. Correspondence:  ../admin/Correspondence/
+
 ## mathbio boys organizational thing, #DJDE #Bolker
 XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../coronavirus/MacPrivate/
 
