@@ -11,6 +11,9 @@ XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../cor
 
 ----------------------------------------------------------------------
 
+XX. Alliance: https://github.com/davidearn/NSERC_Alliance.git
+* Alliance grant; anything there?
+
 XX.	CV:  https://bitbucket.org/dushoff/New_CV.git
 XX.	coreFaculty:  https://github.com/ICI3D/coreFaculty.git
 XX.	cron:  https://github.com/dushoff/cron.git
