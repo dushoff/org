@@ -11,6 +11,8 @@ XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../cor
 
 XX.	cron:  https://github.com/dushoff/cron.git
 
+XX. mathepi: ../../gitroot/smb-mathepi http://
+
 ----------------------------------------------------------------------
 
 XX. Alliance: https://github.com/davidearn/NSERC_Alliance.git
