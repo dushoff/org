@@ -2,7 +2,7 @@
 XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 
 ## Tenure and promotion
-XX.	tp ../admin/tp/
+XX. tp https://github.com/dushoff/tp.git
 
 XX. Correspondence:  ../admin/Correspondence/ https://bitbucket.org/dushoff/Correspondence.git
 
