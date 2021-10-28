@@ -13,11 +13,11 @@ XX.	cron:  https://github.com/dushoff/cron.git
 
 XX. readings: https://github.com/dushoff/readings.git
 
+## Bleah
 mathepi: ../../gitroot/smb-mathepi http://
 
-----------------------------------------------------------------------
+## Alliance grant; anything there?
+Alliance: https://github.com/davidearn/NSERC_Alliance.git
 
-XX. Alliance: https://github.com/davidearn/NSERC_Alliance.git
-* Alliance grant; anything there?
-
-XX.	coreFaculty:  https://github.com/ICI3D/coreFaculty.git
+## Is this tracked somewhere good?
+coreFaculty:  https://github.com/ICI3D/coreFaculty.git
