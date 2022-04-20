@@ -15,7 +15,6 @@ XX. readings: https://github.com/dushoff/readings.git
 
 XX. earnapps: https://github.com/davidearn/postdoc_apps.git
 
-
 ## Bleah
 mathepi: ../../gitroot/smb-mathepi http://
 
