@@ -24,3 +24,5 @@ Alliance: https://github.com/davidearn/NSERC_Alliance.git
 
 ## Is this tracked somewhere good?
 coreFaculty:  https://github.com/ICI3D/coreFaculty.git
+
+XX. bolker22: https://github.com/bbolker/discovery_2022.git
