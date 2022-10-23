@@ -5,12 +5,12 @@ XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 tp: https://github.com/dushoff/tp.git
 Retired; see the MacDrive https://macdrive.mcmaster.ca/library/f6c7ed36-9445-4844-acab-0cc3ccf9c6b3/Biology%20T%2BP/
 
-XX. Correspondence:  ../admin/Correspondence/ https://bitbucket.org/dushoff/Correspondence.git
+XX. Correspondence:  https://github.com/dushoff/Correspondence.git
 
 ## mathbio boys organizational thing, #DJDE #Bolker
 XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../coronavirus/MacPrivate/
 
-XX.	cron:  https://github.com/dushoff/cron.git
+XX. cron:  https://github.com/dushoff/cron.git
 
 XX. readings: https://github.com/dushoff/readings.git
 
