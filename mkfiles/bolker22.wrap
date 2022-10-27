@@ -1,10 +1,14 @@
-## This is a _linked_ WRAPPER makefile for …
+## This is a _linked_ WRAPPER makefile for bolker22 (NSERC grant)
 
 current: target
 -include target.mk
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
+
+include Makefile
 
 ######################################################################
 
