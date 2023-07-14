@@ -12,6 +12,9 @@ XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../cor
 
 XX. cron:  https://github.com/dushoff/cron.git
 
+## Probably useless parallel effort
+bio: https://github.com/dushoff/bio
+
 XX. readings: https://github.com/dushoff/readings.git
 
 XX. earnapps: https://github.com/davidearn/postdoc_apps.git
