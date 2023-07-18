@@ -8,7 +8,7 @@ Retired; see the MacDrive https://macdrive.mcmaster.ca/library/f6c7ed36-9445-484
 XX. Correspondence:  https://github.com/dushoff/Correspondence.git
 
 ## mathbio boys organizational thing, #DJDE #Bolker
-XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../coronavirus/MacPrivate/
+XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
 XX. cron:  https://github.com/dushoff/cron.git
 
