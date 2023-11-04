@@ -15,9 +15,9 @@ XX. cron:  https://github.com/dushoff/cron.git
 ## Probably useless parallel effort
 bio: https://github.com/dushoff/bio
 
-XX. readings: https://github.com/dushoff/readings.git
+readings: https://github.com/dushoff/readings.git
 
-XX. earnapps: https://github.com/davidearn/postdoc_apps.git
+earnapps: https://github.com/davidearn/postdoc_apps.git
 
 ## Bleah
 mathepi: ../../gitroot/smb-mathepi http://
