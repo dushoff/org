@@ -14,8 +14,7 @@ XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
 XX. cron:  https://github.com/dushoff/cron.git
 
-XX. tpScience: 
-tpScience.newrepo
+XX. tpScience: https://github.com/dushoff/tpScience.git
 
 readings: https://github.com/dushoff/readings.git
 
