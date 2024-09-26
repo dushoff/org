@@ -1,9 +1,6 @@
 
 XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 
-## Tenure and promotion
-tp: https://github.com/dushoff/tp.git
-Retired; see the MacDrive https://macdrive.mcmaster.ca/library/f6c7ed36-9445-4844-acab-0cc3ccf9c6b3/Biology%20T%2BP/
 
 Downloads: https://github.com/dushoff/Downloads.git
 
@@ -14,6 +11,9 @@ XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
 XX. cron:  https://github.com/dushoff/cron.git
 
+## Tenure and promotion
+tpBio: https://github.com/dushoff/tp.git
+Retired; see the MacDrive https://macdrive.mcmaster.ca/library/f6c7ed36-9445-4844-acab-0cc3ccf9c6b3/Biology%20T%2BP/
 XX. tpScience: https://github.com/dushoff/tpScience.git
 
 readings: https://github.com/dushoff/readings.git
