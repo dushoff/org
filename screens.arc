@@ -9,8 +9,9 @@ Downloads: https://github.com/dushoff/Downloads.git
 
 XX. Correspondence:  https://github.com/dushoff/Correspondence.git
 
-## mathbio boys organizational thing, #DJDE #Bolker
-XX. bioboys:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
+## mathbio trio organizational thing, #DJDE #Bolker
+
+XX. mathbio:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
 XX. cron:  https://github.com/dushoff/cron.git
 
