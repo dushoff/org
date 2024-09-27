@@ -1,7 +1,6 @@
 
 XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 
-
 Downloads: https://github.com/dushoff/Downloads.git
 
 XX. Correspondence:  https://github.com/dushoff/Correspondence.git
