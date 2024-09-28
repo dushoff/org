@@ -1,13 +1,13 @@
 
 XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 
+XX. files: https://github.com/dushoff/files.git
 
-Downloads: https://github.com/dushoff/Downloads.git
+XX. files/Downloads
 
 XX. Correspondence:  https://github.com/dushoff/Correspondence.git
 
 ## mathbio trio organizational thing, #DJDE #Bolker
-
 XX. mathbio:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
 XX. cron:  https://github.com/dushoff/cron.git
