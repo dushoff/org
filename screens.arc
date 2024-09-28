@@ -1,13 +1,9 @@
 
 XX. Planning:  https://github.com/dushoff/Planning.git ../planning/Planning
 
-<<<<<<< HEAD
 XX. files: https://github.com/dushoff/files.git
 
 XX. files/Downloads
-=======
-Downloads: https://github.com/dushoff/Downloads.git
->>>>>>> 204fc1103730e223470616d7cb7163aeed398aa6
 
 XX. Correspondence:  https://github.com/dushoff/Correspondence.git
 
