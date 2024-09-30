@@ -17,6 +17,8 @@ tpBio: https://github.com/dushoff/tp.git
 Retired; see the MacDrive https://macdrive.mcmaster.ca/library/f6c7ed36-9445-4844-acab-0cc3ccf9c6b3/Biology%20T%2BP/
 XX. tpScience: https://github.com/dushoff/tpScience.git
 
+XX. pcard: https://github.com/dushoff/pcard.git
+
 ## pcard.newrepo
 
 readings: https://github.com/dushoff/readings.git
