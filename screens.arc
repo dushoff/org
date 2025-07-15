@@ -19,6 +19,12 @@ XX. tpScience: https://github.com/dushoff/tpScience.git
 
 XX. pcard: https://github.com/dushoff/pcard.git
 
+######################################################################
+
+## What kind of Dropbox stuff do you have, and what is the plan to move it over?
+
+XX. docs:  https://github.com/dushoff/docs.git
+
 ## pcard.newrepo
 
 readings: https://github.com/dushoff/readings.git
