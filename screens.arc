@@ -5,7 +5,9 @@ XX. files: https://github.com/dushoff/files.git
 
 XX. files/Downloads
 
-XX. Correspondence:  https://github.com/dushoff/Correspondence.git
+XX. Correspondence: https://github.com/dushoff/Correspondence.git
+
+XX. nsercMixing: https://github.com/dushoff/nsercMixing.git
 
 ## mathbio trio organizational thing, #DJDE #Bolker
 XX. mathbio:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
