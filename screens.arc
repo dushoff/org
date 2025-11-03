@@ -9,6 +9,8 @@ XX. Correspondence: https://github.com/dushoff/Correspondence.git
 
 XX. nsercMixing: https://github.com/dushoff/nsercMixing.git
 
+XX. ccv: https://github.com/dushoff/ccv
+
 ## mathbio trio organizational thing, #DJDE #Bolker
 XX. mathbio:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
