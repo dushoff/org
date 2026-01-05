@@ -31,7 +31,6 @@ XX. pcard: https://github.com/dushoff/pcard.git
 ## What kind of Dropbox stuff do you have, and what is the plan to move it over?
 
 XX. documents:  https://github.com/dushoff/documents.git
-XX. curate:  https://github.com/dushoff/curate.git
 
 ## pcard.newrepo
 
