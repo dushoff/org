@@ -11,6 +11,9 @@ XX. nsercMixing: https://github.com/dushoff/nsercMixing.git
 
 XX. ccv: https://github.com/dushoff/ccv
 
+## Work on photos and stuff
+XX. curate:  https://github.com/dushoff/curate
+
 ## mathbio trio organizational thing, #DJDE #Bolker
 XX. mathbio:  https://github.com/davidearn/MacTheoBioCOVID19Research.git
 
