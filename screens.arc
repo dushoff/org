@@ -9,6 +9,9 @@ XX. Correspondence: https://github.com/dushoff/Correspondence.git
 
 XX. nsercMixing: https://github.com/dushoff/nsercMixing.git
 
+XX. cihrARI: https://github.com/dushoff/cihrARI.git
+cihrARI.newrepo
+
 XX. ccv: https://github.com/dushoff/ccv
 
 ## Work on photos and stuff
